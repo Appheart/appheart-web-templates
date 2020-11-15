@@ -1,0 +1,12 @@
+.video-play {
+    position: relative;
+    width: 100%;
+    height:50vh;
+
+    video {
+        all: unset;
+        position: absolute;
+        height: 50vh;
+    }
+}
+
